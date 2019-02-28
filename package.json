@@ -1,5 +1,5 @@
 {
-  "name": "get-paths",
+  "name": "get-property-paths",
   "version": "1.0.0",
   "description": "Get specified property paths from object.",
   "main": "./lib/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhso/getPaths.git"
+    "url": "git+https://github.com/zhso/get-property-paths.git"
   },
   "keywords": [
     "path",
@@ -19,9 +19,9 @@
   "author": "s@zhso.net",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhso/getPaths/issues"
+    "url": "https://github.com/zhso/get-property-paths/issues"
   },
-  "homepage": "https://github.com/zhso/getPaths#readme",
+  "homepage": "https://github.com/zhso/get-property-paths#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
